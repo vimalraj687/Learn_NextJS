@@ -1,0 +1,9 @@
+.shape {
+  height: 0;
+  width: 0;
+  /* border-bottom: 30px solid black;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent; */
+  border: 300px solid rgb(169, 23, 23);
+  border-radius: 50%;
+}
